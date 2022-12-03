@@ -1,0 +1,9 @@
+__title__ = 'voicem'
+__package_name__ = 'voicem'
+__version__ = '0.0.1'
+__description__ = "Python Package for voice authentication"
+__email__ = "deepak008@live.com"
+__author__ = 'PyContributors'
+__github__ = 'https://github.com/Py-Contributors/voicem'
+__pypi__ = 'https://pypi.org/project/voicem'
+__license__ = 'GNU General Public License v3.0'
